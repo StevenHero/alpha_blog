@@ -35,13 +35,6 @@
   color: #fff; 
 }
 
-.btn {
-  color: #fff;
-  background-color: #008CBA;
-  border: none;
-  text-decoration: none;
-}
-
 .center {
   text-align:center;
 }
@@ -63,6 +56,21 @@
 .btn-xlarge {
   font-size: 1.7em;
   background-color: #008CBA;
+}
+
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+  padding-left: 20;
+  padding-bottom: 20;
+}
+
+.description {
+  margin-top: 20;
+}
+
+.aricle {
+  margin-left: 20;
 }
 
 footer {
